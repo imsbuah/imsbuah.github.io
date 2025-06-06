@@ -1,8 +1,8 @@
 # Sylvester Buah
 
 **AWS Cloud & Security Architect**  
-📍 Rockford, IL | 💼 Open to Remote | 📧 imsbuah@gmail.com  
-🔗 [Resume](https://github.com/imsbuah/resume/blob/main/SylvesterBuah_Resume.pdf)
+📍 Chicago, IL | 💼 Open to Remote | 📧 imsbuah@gmail.com  
+🔗 [Resume](https://github.com/imsbuah/resume/blob/main/SylvesterBuah_AWS_Resume.pdf)
 
 ---
 
@@ -20,21 +20,22 @@ Cloud architect specializing in secure AWS infrastructure design, automation, an
 - **CI/CD Security**: GitHub Actions, Docker image scanning, pipeline secrets management  
 - **Monitoring & Logging**: CloudWatch, CloudTrail, ELK Stack, Wazuh  
 - **Data Protection**: At-rest/in-transit encryption, tokenization, MFA  
-- **Languages**: Python, Bash, YAML, Terraform, JSON
+- **Languages**: Python, Bash, YAML, Terraform, JSON, C++
 
 ---
 
 ## Industry Certifications
 
-- **AWS Certified Solutions Architect – Associate**  
-- **AWS Certified Security – Specialty**  
-- **HashiCorp Certified: Terraform Associate**  
+- AWS Certified Solutions Architect - Associate  
+- AWS Certified Security - Specialty  
+- CompTIA Security+  
+- HashiCorp Certified: Terraform Associate  
 
 ---
 
 ## Featured Projects
 
-### ☁️ SecureWeather – AWS Serverless App  
+### ☁️ SecureWeather - AWS Serverless App  
 Deployed a serverless weather app using Lambda, API Gateway, and DynamoDB. IAM-restricted APIs, encrypted storage, CloudWatch integration, and threat logging.  
 📎 [View Repo](https://github.com/imsbuah/secure-weather-app)
 
@@ -46,7 +47,7 @@ Built a production-grade CI/CD pipeline with SAST tools, Docker vulnerability sc
 
 ---
 
-### 🔐 LoginSecure – Secure Auth System  
+### 🔐 LoginSecure - Secure Auth System  
 Full-stack login system with role-based access control, MFA, brute-force mitigation, and encrypted sessions.  
 📎 [View Repo](https://github.com/imsbuah/loginsecure)
 
@@ -72,16 +73,16 @@ Ansible-driven UFW and pfSense rule deployment across EC2 and on-prem servers us
 
 ## Education
 
-- **B.S. Computer Science** — DePaul University  
-- **A.A. Computer Software Engineering** — Rock Valley College  
+- B.S. Computer Science - DePaul University  
+- A.A. Computer Software Engineering - Rock Valley College  
 
 ---
 
 ## Contact
 
 📧 imsbuah@gmail.com  
-📄 [Resume (PDF)](https://github.com/imsbuah/resume/blob/main/SylvesterBuah_Resume.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/imsbuah)
+📄 [Resume (PDF)](https://github.com/imsbuah/resume/blob/main/SylvesterBuah_AWS_Resume.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sylvester-buah-72105936a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
