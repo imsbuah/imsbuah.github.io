@@ -3,125 +3,168 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sylvester Buah | AWS Cloud & Security Architect</title>
+  <title>Sylvester Buah | DevSecOps Portfolio</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      max-width: 960px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      background-color: #f7f9fc;
-      color: #1e1e1e;
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #111;
+      color: #f0f0f0;
+      line-height: 1.6;
     }
-    h1, h2 {
-      color: #0b3d91;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 0.2rem;
+
+    header {
+      background: #0b3d91;
+      padding: 2.5rem 1rem 1rem;
+      text-align: center;
     }
-    a {
-      color: #0b3d91;
-      text-decoration: none;
+
+    header img.logo {
+      width: 70px;
     }
-    a:hover {
-      text-decoration: underline;
+
+    header img.profile {
+      width: 120px;
+      border-radius: 100px;
+      border: 3px solid #fff;
+      margin-top: 1rem;
     }
+
+    header h1 {
+      font-size: 2.2rem;
+      margin: 0.7rem 0 0.2rem;
+      color: #fff;
+    }
+
+    header h2 {
+      font-weight: normal;
+      color: #e0e0e0;
+      font-size: 1.1rem;
+      margin-bottom: 1rem;
+    }
+
+    .container {
+      max-width: 920px;
+      margin: auto;
+      padding: 2rem 1.5rem;
+    }
+
+    h3 {
+      color: #5cc8ff;
+      margin-top: 2rem;
+      border-bottom: 1px solid #444;
+      padding-bottom: 0.3rem;
+    }
+
     ul {
       padding-left: 1.5rem;
     }
-    .section {
-      margin-top: 2rem;
+
+    a {
+      color: #78c5ff;
+      text-decoration: none;
     }
-    .highlight {
-      font-weight: bold;
-      color: #0b3d91;
+
+    a:hover {
+      text-decoration: underline;
     }
+
+    .project {
+      background: #1c1c1c;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-left: 5px solid #0b3d91;
+    }
+
     footer {
-      margin-top: 3rem;
-      padding-top: 1rem;
-      border-top: 1px solid #ccc;
       text-align: center;
+      padding: 2rem 1rem;
       font-size: 0.9rem;
       color: #666;
+      border-top: 1px solid #333;
+      margin-top: 3rem;
+    }
+
+    .hero-text {
+      font-size: 1.1rem;
+      color: #ccc;
+      margin-top: 1rem;
     }
   </style>
 </head>
 <body>
 
-  <h1>Sylvester Buah</h1>
-  <h2>AWS Cloud & Security Architect</h2>
-  <p>
-    <strong>Location:</strong> Chicago, IL &nbsp;|&nbsp;
-    <strong>Remote:</strong> Available &nbsp;|&nbsp;
-    <strong>Email:</strong> imsbuah@gmail.com
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/sylvester-buah-72105936a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a> |
-    <a href="https://github.com/imsbuah" target="_blank">GitHub</a> |
-    <a href="https://github.com/imsbuah/resume/blob/main/SylvesterBuah_AWS_Resume.pdf" target="_blank">Resume (PDF)</a>
-  </p>
-
-  <div class="section">
-    <h2>Professional Summary</h2>
-    <p>
-      I am a results-driven cloud and security architect with a strong DevSecOps mindset. My expertise lies in designing secure, scalable AWS environments using Infrastructure as Code and building automated pipelines that integrate security from the ground up. With hands-on experience deploying secure authentication systems, real-time monitoring tools, and vulnerability management platforms, I bring both engineering precision and strategic foresight to every project.
+  <header>
+    <img src="buahgroup-logo.png" alt="BuahGroup Logo" class="logo" />
+    <h1>Sylvester Buah</h1>
+    <h2>DevSecOps | AWS Cloud Architect | Secure Automation</h2>
+    <img src="profile.png" alt="Profile Picture" class="profile" />
+    <p class="hero-text">
+      I design, secure, and automate modern cloud environments using DevSecOps practices, IaC, and open-source tooling.
     </p>
-  </div>
+  </header>
 
-  <div class="section">
-    <h2>What I Offer</h2>
+  <div class="container">
+
+    <h3>🔧 Core Skills</h3>
     <ul>
-      <li>Cloud-native architecture design and security hardening</li>
-      <li>CI/CD automation with built-in compliance checks and scans</li>
-      <li>Hands-on remediation of vulnerabilities and misconfigurations</li>
-      <li>Documentation, auditing, and secure deployment workflows</li>
-      <li>Training and mentorship in secure cloud and DevOps practices</li>
+      <li>AWS: IAM, VPC, EC2, Lambda, S3, CloudFront, CloudWatch</li>
+      <li>DevSecOps: GitHub Actions, Docker, SAST, Secret Scanning</li>
+      <li>Infrastructure as Code: Terraform, CloudFormation, Ansible</li>
+      <li>Security Stack: WAF, GuardDuty, Wazuh, OpenVAS, KMS</li>
+      <li>Languages: Python, Bash, YAML, JSON, C++</li>
     </ul>
-  </div>
 
-  <div class="section">
-    <h2>Core Skills</h2>
-    <ul>
-      <li><span class="highlight">Cloud:</span> AWS (IAM, EC2, S3, Lambda, API Gateway, CloudFront)</li>
-      <li><span class="highlight">Security:</span> IAM policies, KMS, WAF, GuardDuty, Security Hub, MFA</li>
-      <li><span class="highlight">DevSecOps:</span> GitHub Actions, Docker, SAST, secret scanning, IaC testing</li>
-      <li><span class="highlight">IaC & Automation:</span> Terraform, CloudFormation, Ansible</li>
-      <li><span class="highlight">Monitoring:</span> CloudWatch, ELK Stack, Wazuh</li>
-      <li><span class="highlight">Languages:</span> Python, Bash, YAML, Terraform, JSON, C++</li>
-    </ul>
-  </div>
-
-  <div class="section">
-    <h2>Certifications</h2>
+    <h3>📜 Certifications</h3>
     <ul>
       <li>AWS Certified Solutions Architect – Associate</li>
       <li>AWS Certified Security – Specialty</li>
       <li>CompTIA Security+</li>
       <li>HashiCorp Certified: Terraform Associate</li>
     </ul>
-  </div>
 
-  <div class="section">
-    <h2>Featured Projects</h2>
+    <h3>💼 Projects</h3>
+
+    <div class="project">
+      <strong>SecureWeather</strong><br/>
+      <a href="https://github.com/imsbuah/secure-weather-app" target="_blank">View on GitHub</a><br/>
+      AWS serverless weather app using Lambda, API Gateway, and S3. Includes IAM roles, encryption, and alerting.
+    </div>
+
+    <div class="project">
+      <strong>DevSecOps CI/CD</strong><br/>
+      <a href="https://github.com/imsbuah/devsecops-roadmap" target="_blank">View on GitHub</a><br/>
+      End-to-end pipeline with secret scanning, Terraform linting, and automated security policy enforcement.
+    </div>
+
+    <div class="project">
+      <strong>LoginSecure</strong><br/>
+      <a href="https://github.com/imsbuah/loginsecure" target="_blank">View on GitHub</a><br/>
+      Multi-factor authentication + RBAC built using AWS Cognito and integrated logging to CloudWatch.
+    </div>
+
+    <div class="project">
+      <strong>Wazuh SIEM Lab</strong><br/>
+      <a href="https://github.com/imsbuah/wazuh-lab" target="_blank">View on GitHub</a><br/>
+      Security monitoring stack for EC2 logs using ELK + Wazuh for real-time threat alerts and log analysis.
+    </div>
+
+    <h3>🎓 Education</h3>
     <ul>
-      <li><strong>SecureWeather:</strong> <a href="https://github.com/imsbuah/secure-weather-app" target="_blank">Serverless AWS weather app with full IAM and encryption policies</a></li>
-      <li><strong>DevSecOps Pipeline:</strong> <a href="https://github.com/imsbuah/devsecops-roadmap" target="_blank">Terraform-provisioned CI/CD pipeline with security gates</a></li>
-      <li><strong>LoginSecure:</strong> <a href="https://github.com/imsbuah/loginsecure" target="_blank">MFA and RBAC-powered authentication system built on security best practices</a></li>
-      <li><strong>Wazuh SIEM:</strong> <a href="https://github.com/imsbuah/wazuh-lab" target="_blank">Deployed and hardened ELK + Wazuh stack on AWS EC2</a></li>
-      <li><strong>OpenVAS Vulnerability Scanner:</strong> <a href="https://github.com/imsbuah/openvas-lab" target="_blank">Asset discovery and scheduled scanning using CVSS metrics</a></li>
-      <li><strong>Firewall Hardening:</strong> <a href="https://github.com/imsbuah/firewall-hardening" target="_blank">CIS-compliant UFW/pfSense deployment via Ansible</a></li>
+      <li>B.S. Computer Science – DePaul University</li>
+      <li>A.A. Computer Software Engineering – Rock Valley College</li>
     </ul>
-  </div>
 
-  <div class="section">
-    <h2>Education</h2>
+    <h3>📬 Contact</h3>
     <ul>
-      <li>B.S. in Computer Science – DePaul University</li>
-      <li>A.A. in Computer Software Engineering – Rock Valley College</li>
+      <li>Email: imsbuah@gmail.com</li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/sylvester-buah-72105936a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">linkedin.com/in/sylvester-buah</a></li>
+      <li>Resume: <a href="https://github.com/imsbuah/resume/blob/main/SylvesterBuah_AWS_Resume.pdf" target="_blank">View PDF</a></li>
     </ul>
   </div>
 
   <footer>
-    &copy; 2025 Sylvester Buah | Cloud | Security | DevSecOps | Automation
+    &copy; 2025 Sylvester Buah · DevSecOps | AWS Security | Automation
   </footer>
 
 </body>
