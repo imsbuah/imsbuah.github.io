@@ -1,89 +1,63 @@
-# Sylvester Buah
+# 👋 Hi, I'm Sylvester Buah
 
-**AWS Cloud & Security Architect**  
+**Computer Science Researcher | Software Engineer | DevSecOps Practitioner**
+
 📍 Chicago, IL | 💼 Open to Remote | 📧 imsbuah@gmail.com  
-🔗 [Resume](https://github.com/imsbuah/resume/blob/main/SylvesterBuah_AWS_Resume.pdf)
 
 ---
 
-## About Me
+## 🧠 About Me
 
-Cloud architect specializing in secure AWS infrastructure design, automation, and compliance. I build resilient, audit-ready systems using Infrastructure as Code (IaC), DevSecOps workflows, and native AWS services. My work spans from IAM and Lambda to threat monitoring and CI/CD pipelines, all optimized for scalability and security.
+I’m a research-driven software engineer with a background in computer science, specializing in cloud infrastructure, cybersecurity, and automation. I build secure, scalable systems that align with modern DevSecOps principles and enterprise-ready cloud practices.
 
----
-
-## Core Capabilities
-
-- **Cloud Architecture**: VPC, EC2, S3, Lambda, API Gateway, CloudFront, Route 53  
-- **Security Engineering**: IAM roles & policies, KMS, WAF, GuardDuty, Security Hub  
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible  
-- **CI/CD Security**: GitHub Actions, Docker image scanning, pipeline secrets management  
-- **Monitoring & Logging**: CloudWatch, CloudTrail, ELK Stack, Wazuh  
-- **Data Protection**: At-rest/in-transit encryption, tokenization, MFA  
-- **Languages**: Python, Bash, YAML, Terraform, JSON, C++
+My work blends hands-on engineering with a strong analytical mindset—whether architecting secure AWS environments, writing infrastructure as code, or implementing threat detection systems. I thrive in environments where experimentation meets execution, and I take pride in delivering solutions that are robust, auditable, and production-ready.
 
 ---
 
-## Industry Certifications
+## 💼 Core Skills
 
-- AWS Certified Solutions Architect - Associate  
-- AWS Certified Security - Specialty  
-- CompTIA Security+  
-- HashiCorp Certified: Terraform Associate  
-
----
-
-## Featured Projects
-
-### ☁️ SecureWeather - AWS Serverless App  
-Deployed a serverless weather app using Lambda, API Gateway, and DynamoDB. IAM-restricted APIs, encrypted storage, CloudWatch integration, and threat logging.  
-📎 [View Repo](https://github.com/imsbuah/secure-weather-app)
+- **Languages**: Python, C++, Bash, YAML, JSON, Terraform
+- **Cloud & DevSecOps**: AWS (EC2, S3, Lambda, IAM, CloudFront), Terraform, GitHub Actions, Docker
+- **Security Engineering**: IAM, KMS, GuardDuty, WAF, Security Hub
+- **Monitoring & SIEM**: CloudWatch, CloudTrail, ELK Stack, Wazuh
+- **Infrastructure as Code**: Terraform, Ansible, CloudFormation
 
 ---
 
-### ⚙️ Secure DevSecOps Pipeline (Terraform + GitHub Actions)  
-Built a production-grade CI/CD pipeline with SAST tools, Docker vulnerability scanning, secret detection, and IaC-based provisioning on AWS.  
-📎 [View Repo](https://github.com/imsbuah/devsecops-roadmap)
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **SecureWeather** | Serverless weather platform with IAM-protected APIs and encrypted data | Lambda, API Gateway, DynamoDB, KMS | [Repo](https://github.com/imsbuah/secure-weather-app) |
+| **DevSecOps Pipeline** | CI/CD pipeline with Docker scanning, secret detection, and IaC provisioning | GitHub Actions, Terraform, AWS | [Repo](https://github.com/imsbuah/devsecops-roadmap) |
+| **LoginSecure** | Auth system with MFA, RBAC, brute-force protection, and encrypted sessions | Python, Flask, AWS | [Repo](https://github.com/imsbuah/loginsecure) |
+| **Wazuh SIEM Lab** | Incident monitoring and logging platform deployed on AWS EC2 | Wazuh, ELK Stack | [Repo](https://github.com/imsbuah/wazuh-lab) |
+| **OpenVAS Research Lab** | Automated vulnerability scanning with CVSS scoring and reporting | OpenVAS, Python | [Repo](https://github.com/imsbuah/openvas-lab) |
+| **Firewall Hardening** | CIS-compliant firewall deployment using Ansible at scale | Ansible, pfSense, UFW | [Repo](https://github.com/imsbuah/firewall-hardening) |
 
 ---
 
-### 🔐 LoginSecure - Secure Auth System  
-Full-stack login system with role-based access control, MFA, brute-force mitigation, and encrypted sessions.  
-📎 [View Repo](https://github.com/imsbuah/loginsecure)
+## 🎓 Education
+
+- **M.S. Computer Science** – Arizona State University *(Research Track)*  
+- **A.A. Liberal Arts** – Rock Valley College
 
 ---
 
-### 📊 Wazuh SIEM on EC2  
-Deployed and hardened a Wazuh + ELK Stack SIEM on AWS EC2 instances. Configured log forwarding, alert rules, and dashboards for incident visibility.  
-📎 [View Repo](https://github.com/imsbuah/wazuh-lab)
+## 🔭 Currently Exploring
+
+- Threat modeling & secure software architecture  
+- Advanced Terraform modules & IaC standardization  
+- Performance optimization with Python and C++  
+- Cloud-native SIEM and anomaly detection systems
 
 ---
 
-### 🧪 OpenVAS Vulnerability Management  
-Automated vulnerability scans on AWS assets with OpenVAS, CVSS scoring, and Python-based reporting.  
-📎 [View Repo](https://github.com/imsbuah/openvas-lab)
+## 📡 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sylvester-buah-72105936a)
+- [Email](mailto:imsbuah@gmail.com)
 
 ---
 
-### 🔥 Firewall Hardening at Scale  
-Ansible-driven UFW and pfSense rule deployment across EC2 and on-prem servers using CIS benchmark-aligned policies.  
-📎 [View Repo](https://github.com/imsbuah/firewall-hardening)
-
----
-
-## Education
-
-- B.S. Computer Science - DePaul University  
-- A.A. Computer Software Engineering - Rock Valley College  
-
----
-
-## Contact
-
-📧 imsbuah@gmail.com  
-📄 [Resume (PDF)](https://github.com/imsbuah/resume/blob/main/SylvesterBuah_AWS_Resume.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sylvester-buah-72105936a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
----
-
-> Secure infrastructure. Automated delivery. Scalable cloud solutions.
+> *"Research-driven. Security-focused. Cloud-native."
