@@ -9,14 +9,14 @@
 
 I'm a computer science professional with a research-driven approach to systems, software, and security engineering. My academic foundation spans algorithms, data structures, systems programming, and software architecture—applied across both academic labs and real-world environments.
 
-Whether building authentication systems in C++, implementing automated infrastructure with Terraform, or analyzing threat detection pipelines, I work at the intersection of **engineering precision** and **computational theory**. I focus on scalable design, clean code, and secure, resilient architecture—platform-agnostic and performance-minded.
+Whether building authentication systems in C++, implementing automated infrastructure, or analyzing threat detection pipelines, I work at the intersection of **engineering precision** and **computational theory**. I focus on scalable design, clean code, and secure, resilient architecture—platform-agnostic and performance-minded.
 
 ---
 
 ## 💼 Core Competencies
 
-- **Programming Languages**: C++, Python, Java, Bash, SQL, JavaScript
 - **Computer Science Core**: Algorithms, Data Structures, Operating Systems, Networking, Software Engineering, Computer Architecture, Discrete Math
+- **Programming Languages**: C++, Python, Java, Bash, SQL, JavaScript
 - **System Engineering**: Linux, Git, Makefiles, Unit Testing, Shell Scripting
 - **Security & Infrastructure**: Access Control, Encryption, Secure Protocols, Threat Modeling, SIEM, Container Hardening
 - **Dev & Deployment**: GitHub Actions, Docker, CI/CD, REST APIs, IaC (Terraform, Ansible)
@@ -28,6 +28,7 @@ Whether building authentication systems in C++, implementing automated infrastru
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|------|
+| **Restaurant Menu App** | Full-stack ordering system simulating restaurant operations; integrates DevSecOps lifecycle from build to deploy | HTML/CSS, JavaScript, Python (Flask), GitHub Actions, Docker, Terraform | [Repo](https://github.com/imsbuah/restaurant-menu-app) |
 | **LoginSecure** | Cross-platform authentication system with MFA, RBAC, brute-force prevention, and encrypted sessions | Python, Flask, SQL, JWT | [Repo](https://github.com/imsbuah/loginsecure) |
 | **SecureWeather** | Modular weather info app using event-driven design and role-restricted APIs | Python, Serverless, Monitoring Tools | [Repo](https://github.com/imsbuah/secure-weather-app) |
 | **DevSecOps Pipeline** | Platform-agnostic CI/CD pipeline with container scanning, IaC deployment, and automated policies | GitHub Actions, Terraform, Docker | [Repo](https://github.com/imsbuah/devsecops-roadmap) |
@@ -48,8 +49,7 @@ Emphasis on secure software design, systems programming, AI integration, and dis
 ---
 
 ### **A.A. in Liberal Arts (Computer Software Engineering)** – Rock Valley College  
-Built a strong foundation in structured and object-oriented programming using C++, alongside math and logic fundamentals.  
-**Relevant Coursework**: C++ I & II (CIS 276/277) • Networking • Discrete Math • Calculus • Database Systems • College Physics
+Built a strong foundation in C++ • Networking • Discrete Math • Calculus • Database Systems • College Physics
 
 ---
 
