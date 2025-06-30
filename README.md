@@ -55,10 +55,10 @@ Built a strong foundation in C++ • Networking • Discrete Math • Calculus �
 
 ## 🔍 Currently Exploring
 
-- C++ memory optimization & performance engineering  
-- Secure software architecture patterns and threat modeling  
-- Test-driven systems development and continuous integration  
-- OS internals and low-level debugging in Linux environments  
+- C++ performance engineering and memory models  
+- Threat modeling and secure software architecture  
+- Systems design for reliability and observability  
+- Building reusable DevSecOps infrastructure patterns
 
 ---
 
