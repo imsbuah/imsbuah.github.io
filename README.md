@@ -1,75 +1,72 @@
-# <img src="https://avatars.githubusercontent.com/u/imsbuah" width="120" align="left" style="border-radius: 50%; margin-right: 1rem;" />
-
 # Sylvester Buah
 
-**Computer Science Researcher | Software Engineer | Cloud Security Specialist**  
+**Computer Science Researcher | Software Engineer | Systems & Security Enthusiast**  
 📍 Chicago, IL | 💼 Open to Remote | 📧 imsbuah@gmail.com
 
 ---
 
 ## 🧠 About Me
 
-I’m a formally trained computer scientist with a foundation in research, systems thinking, and software engineering. My approach blends academic rigor with practical execution—grounded in core computer science principles such as algorithms, data structures, operating systems, computer architecture, and discrete mathematics.
+I'm a computer science professional with a research-driven approach to systems, software, and security engineering. My academic foundation spans algorithms, data structures, systems programming, and software architecture—applied across both academic labs and real-world environments.
 
-From designing secure AWS architectures to implementing DevSecOps pipelines and analyzing vulnerabilities in distributed systems, I apply both theory and practice to deliver resilient, scalable, and secure infrastructure. My portfolio reflects not just technical implementation but a deep understanding of computing fundamentals—built in classrooms, labs, and research.
+Whether building authentication systems in C++, implementing automated infrastructure with Terraform, or analyzing threat detection pipelines, I work at the intersection of **engineering precision** and **computational theory**. I focus on scalable design, clean code, and secure, resilient architecture—platform-agnostic and performance-minded.
 
 ---
 
-## 💼 Core Technical Competencies
+## 💼 Core Competencies
 
-- **Programming Languages**: C++, Python, Bash, JavaScript, Java, SQL
-- **Computer Science Core**: Algorithms, Data Structures, OS Concepts, Computer Architecture, Networking, Discrete Math, Software Design Patterns
-- **Cloud & DevSecOps**: AWS (EC2, Lambda, S3, IAM, CloudFront), Terraform, GitHub Actions, Docker, Ansible
-- **Cybersecurity & Compliance**: IAM, KMS, GuardDuty, Security Hub, WAF, SIEM (Wazuh, ELK Stack), Threat Detection
-- **Software Engineering Tools**: Git, Agile, CI/CD, Test Automation, REST APIs, Version Control, TDD/BDD
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
-- **Databases**: MySQL, DynamoDB, PostgreSQL, SQLite
+- **Programming Languages**: C++, Python, Java, Bash, SQL, JavaScript
+- **Computer Science Core**: Algorithms, Data Structures, Operating Systems, Networking, Software Engineering, Computer Architecture, Discrete Math
+- **System Engineering**: Linux, Git, Makefiles, Unit Testing, Shell Scripting
+- **Security & Infrastructure**: Access Control, Encryption, Secure Protocols, Threat Modeling, SIEM, Container Hardening
+- **Dev & Deployment**: GitHub Actions, Docker, CI/CD, REST APIs, IaC (Terraform, Ansible)
+- **Databases**: PostgreSQL, MySQL, SQLite, DynamoDB
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **SecureWeather** | Serverless weather platform with IAM-protected APIs, encrypted data, and integrated monitoring | Lambda, API Gateway, DynamoDB, KMS, CloudWatch | [Repo](https://github.com/imsbuah/secure-weather-app) |
-| **DevSecOps Pipeline** | End-to-end secure pipeline with IaC, container scanning, secret detection, and Terraform provisioning | GitHub Actions, Docker, Terraform, AWS | [Repo](https://github.com/imsbuah/devsecops-roadmap) |
-| **LoginSecure** | Secure authentication platform with MFA, RBAC, and brute-force protection | Python, Flask, JWT, AWS | [Repo](https://github.com/imsbuah/loginsecure) |
-| **Wazuh SIEM Lab** | Cloud-based SIEM for threat monitoring, incident response, and dashboard visualization | EC2, Wazuh, ELK Stack | [Repo](https://github.com/imsbuah/wazuh-lab) |
-| **OpenVAS Research Lab** | Automated vulnerability scanner with CVSS scoring and reporting pipeline | Python, OpenVAS | [Repo](https://github.com/imsbuah/openvas-lab) |
-| **Firewall Hardening** | Scalable firewall rules deployment using Ansible and pfSense/UFW based on CIS benchmarks | Ansible, pfSense, UFW | [Repo](https://github.com/imsbuah/firewall-hardening) |
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| **LoginSecure** | Cross-platform authentication system with MFA, RBAC, brute-force prevention, and encrypted sessions | Python, Flask, SQL, JWT | [Repo](https://github.com/imsbuah/loginsecure) |
+| **SecureWeather** | Modular weather info app using event-driven design and role-restricted APIs | Python, Serverless, Monitoring Tools | [Repo](https://github.com/imsbuah/secure-weather-app) |
+| **DevSecOps Pipeline** | Platform-agnostic CI/CD pipeline with container scanning, IaC deployment, and automated policies | GitHub Actions, Terraform, Docker | [Repo](https://github.com/imsbuah/devsecops-roadmap) |
+| **Wazuh SIEM Lab** | Threat visibility lab using open-source logging and monitoring stack | Wazuh, Elastic Stack | [Repo](https://github.com/imsbuah/wazuh-lab) |
+| **OpenVAS Vulnerability Scanner** | Research project for automated scanning, CVSS scoring, and Python-based reporting | Python, OpenVAS | [Repo](https://github.com/imsbuah/openvas-lab) |
+| **Firewall Hardening** | Configurable firewall deployments using CIS-aligned security policies | Ansible, UFW, pfSense | [Repo](https://github.com/imsbuah/firewall-hardening) |
+| **Student Management System (C++)** | Object-oriented program to manage students, grades, and course info with file persistence | C++ | [Repo](https://github.com/imsbuah/cpp-student-system) |
+| **Banking Simulator (C++)** | CLI app simulating customer accounts, transactions, and role-based access | C++ | [Repo](https://github.com/imsbuah/cpp-banking-simulator) |
 
 ---
 
 ## 🎓 Education
 
 ### **M.S. in Computer Science** – Arizona State University *(Research Track)*  
-Focused on systems programming, distributed computing, AI concepts, advanced algorithm design, and applied security.
-
-**Skills & Coursework**: Advanced Algorithms • Secure Software Development • Systems Security • Cloud Computing • Machine Learning • Research Methodology • Big Data Analytics
-
----
-
-### **A.A. in Liberal Arts – Emphasis: Computer Software Engineering** – Rock Valley College  
-Completed foundational programming, software engineering principles, and mathematics for computer science.
-
-**Skills & Coursework**: C++ (CIS 276 & 277) • Object-Oriented Programming • Intro to Networking • Database Design • Calculus I & II • Logic & Critical Thinking • College Physics
+Emphasis on secure software design, systems programming, AI integration, and distributed computing.  
+**Relevant Coursework**: Advanced Algorithms • Cloud & Systems Security • Machine Learning • Big Data Analytics • Research Methods
 
 ---
 
-## 🔭 Currently Exploring
-
-- Secure software architecture & microservices hardening  
-- Building advanced IaC modules & cloud automation strategies  
-- Deepening system internals knowledge through Linux & C++  
-- Researching anomaly detection & ML-integrated threat analysis  
+### **A.A. in Liberal Arts (Computer Software Engineering)** – Rock Valley College  
+Built a strong foundation in structured and object-oriented programming using C++, alongside math and logic fundamentals.  
+**Relevant Coursework**: C++ I & II (CIS 276/277) • Networking • Discrete Math • Calculus • Database Systems • College Physics
 
 ---
 
-## 📡 Let's Connect
+## 🔍 Currently Exploring
+
+- C++ memory optimization & performance engineering  
+- Secure software architecture patterns and threat modeling  
+- Test-driven systems development and continuous integration  
+- OS internals and low-level debugging in Linux environments  
+
+---
+
+## 📡 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/sylvester-buah-72105936a)  
 - [Email](mailto:imsbuah@gmail.com)
 
 ---
 
-> *“Engineered through research. Built with purpose. Secured by design.”*
+> *“Engineered with discipline. Designed through research. Delivered with purpose.”*
